@@ -1,0 +1,28 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophiaChirskaya/node-hello-world.git"
+  },
+  "keywords": [
+    "node",
+    "hello",
+    "world"
+  ],
+  "author": "Sophia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SophiaChirskaya/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/SophiaChirskaya/node-hello-world#readme",
+  "description": "",
+  "dependencies": {
+    "@tonaljs/abc-notation": "^4.9.1",
+    "chalk": "^5.4.1"
+  }
+}
